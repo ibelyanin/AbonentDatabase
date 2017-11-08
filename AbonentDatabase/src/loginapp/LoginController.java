@@ -40,6 +40,7 @@ public class LoginController implements Initializable{
         if (username&&password)
         new Stage
         FXMLoader.getClass.getResource("/dbdata/dbdata.fxml")
+        123213123123
          */
     }
 
